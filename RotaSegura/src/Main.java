@@ -3,18 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         /*TODO
-            @ Cadastro de VEICULOS
-                - placa
-                - modelo
-                - ano de fabricação
-                - quilometro atual
-                -
-                CAMINHOES
-                - capacidade de carga (toneladas
-                - quantidade de eixos
-                -
-                MOTOS
-                - cilindradas (cc)
             @ Registrar ROTA
                 -
             @ Regra de negócio
